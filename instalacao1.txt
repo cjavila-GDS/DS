@@ -2,3 +2,6 @@ https://github.com/cjavila-GDS/DS.git
 git config --global user.name "cjavila-GDS"
 git config --global user.email "cjavila-GDS@outlook.com" 
 git clone https://github.com/cjavila-GDS/DS.git
+git add DS/instalacao1.txt
+git status
+git commit -m "teste de um primeiro commit" instalacao1.txt
